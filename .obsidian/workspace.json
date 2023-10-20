@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "b3f1b5713ee5c41f",
+    "type": "split",
+    "children": [
+      {
+        "id": "38fe174ee79e921b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3f61dc69e1b27aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习/数据结构与算法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50a4b303a61a1123",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习/数电.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba772ec84c2f8aa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习/Python/Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e339d0691d7c45b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习/Git教程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bebdb38827ea03ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习/UML学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fb8263721aaca78",
+    "type": "split",
+    "children": [
+      {
+        "id": "b47d9c5aadfe1aff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2797565af4b5b00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a96e66666742b1db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "19a7c7425aa7e985",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.5
+  },
+  "right": {
+    "id": "ce5d43c784933e6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a23cf291d0f7d77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ec819e9e000aeda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "学习/Git教程.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "648f5b56b8fcc76d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "学习/Git教程.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07cabaccb313d52d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9e1e9b9851211430",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "学习/Git教程.md"
+              }
+            }
+          },
+          {
+            "id": "6ed09eb104262bab",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "e339d0691d7c45b6",
+  "lastOpenFiles": [
+    "学习/需求分析.md",
+    "学习/UML学习.md",
+    "学习/数据结构与算法.md",
+    "学习/数电.md",
+    "学习/Python/Python.md",
+    "学习/Java/Spring Security.md",
+    "学习/Git教程.md",
+    "学习/学习.md",
+    "工作/工作.md",
+    "学习/Java/Java.md",
+    "学习/Java/JPA.md",
+    "学习/Java/Gradle+Jpa学习笔记.md",
+    "学习/Java/持久层框架.md",
+    "学习/大物实验.md",
+    "学习/Java/Spring Data.md",
+    "学习/Java/Spring Boot.md",
+    "学习/Java/Spring.md",
+    "学习/Java/Mybatis-Plus.md",
+    "学习/Java/Maven.md",
+    "学习/Java/Gradle.md",
+    "学习/Java/仓库管理.md",
+    "学习/数据库/Mysql.md",
+    "学习/数据库/数据库管理系统(DBMS).md",
+    "工作/例会&分享会流程.md",
+    "工作/例会&分享会流程.tmp",
+    "工作/服务器.md",
+    "工作/纳新试题(1).md",
+    "png/Pasted image 20230904203021.png",
+    "png/Pasted image 20230904202702.png",
+    "png/Pasted image 20230818000638.png",
+    "png/Pasted image 20230817234513.png",
+    "png/Pasted image 20230818000028.png",
+    "png/Pasted image 20230821122904.png",
+    "png/Pasted image 20230821164638.png",
+    "png",
+    "未命名.canvas",
+    "未命名 5.canvas",
+    "未命名 4.canvas",
+    "未命名 3.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "学习/Java/未命名.canvas",
+    "学习/数据库",
+    "学习/Python",
+    "学习/Java",
+    "工作",
+    "学习"
+  ]
+}
