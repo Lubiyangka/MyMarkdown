@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "38fe174ee79e921b",
+        "id": "214378d2ae4ef908",
         "type": "tabs",
         "children": [
           {
-            "id": "c3f61dc69e1b27aa",
+            "id": "a2ae19877b28aeeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习/数据结构与算法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50a4b303a61a1123",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习/数电.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba772ec84c2f8aa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习/Python/Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e339d0691d7c45b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习/Git教程.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bebdb38827ea03ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习/UML学习.md",
+                "file": "学习/Java/Java.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "ce5d43c784933e6d",
@@ -134,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习/Git教程.md",
+                "file": "学习/Java/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习/Git教程.md",
+                "file": "学习/Java/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习/Git教程.md"
+                "file": "学习/Java/Java.md"
               }
             }
           },
@@ -206,42 +158,45 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e339d0691d7c45b6",
+  "active": "a2ae19877b28aeeb",
   "lastOpenFiles": [
-    "学习/需求分析.md",
+    "学习/Java/后端开发技术入门介绍.md",
+    "学习/Git教程.md",
+    "学习/Java/仓库管理.md",
+    "学习/Java/Spring.md",
+    "学习/Python/Python.md",
+    "学习/大物实验.md",
+    "工作/WeRun后端暑假纳新需求管理.md",
+    "工作/纳新试题(1).md",
+    "工作/例会&分享会流程.md",
+    "工作/工作.md",
+    "工作/服务器.md",
+    "学习/QT入门.md",
     "学习/UML学习.md",
     "学习/数据结构与算法.md",
     "学习/数电.md",
-    "学习/Python/Python.md",
+    "学习/Java/image-20231030113757783.png",
+    "学习/Java/image-20231030113735263.png",
+    "png/Pasted image 20231021203452.png",
+    "png/Pasted image 20230904203021.png",
+    "png/Pasted image 20230904202702.png",
+    "png/Pasted image 20230821164638.png",
+    "png/Pasted image 20230821122904.png",
+    "png/Pasted image 20230818000638.png",
+    "png/Pasted image 20230818000028.png",
+    "png/Pasted image 20230817234513.png",
+    "学习/需求分析.md",
     "学习/Java/Spring Security.md",
-    "学习/Git教程.md",
     "学习/学习.md",
-    "工作/工作.md",
     "学习/Java/Java.md",
     "学习/Java/JPA.md",
     "学习/Java/Gradle+Jpa学习笔记.md",
     "学习/Java/持久层框架.md",
-    "学习/大物实验.md",
     "学习/Java/Spring Data.md",
     "学习/Java/Spring Boot.md",
-    "学习/Java/Spring.md",
     "学习/Java/Mybatis-Plus.md",
     "学习/Java/Maven.md",
-    "学习/Java/Gradle.md",
-    "学习/Java/仓库管理.md",
-    "学习/数据库/Mysql.md",
-    "学习/数据库/数据库管理系统(DBMS).md",
-    "工作/例会&分享会流程.md",
     "工作/例会&分享会流程.tmp",
-    "工作/服务器.md",
-    "工作/纳新试题(1).md",
-    "png/Pasted image 20230904203021.png",
-    "png/Pasted image 20230904202702.png",
-    "png/Pasted image 20230818000638.png",
-    "png/Pasted image 20230817234513.png",
-    "png/Pasted image 20230818000028.png",
-    "png/Pasted image 20230821122904.png",
-    "png/Pasted image 20230821164638.png",
     "png",
     "未命名.canvas",
     "未命名 5.canvas",
